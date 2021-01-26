@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Starter Project
 
 - css provided (global styles, styled components)
@@ -113,3 +114,7 @@ package.json
 ```
 
 [create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+=======
+# github-user
+A github user application built in React
+>>>>>>> 6fa2318deed85078b0766f4d75c942ae6ac5f55e
